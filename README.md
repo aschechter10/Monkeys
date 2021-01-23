@@ -3,5 +3,9 @@ Repository for p1 - final project
 
 ### Roster:
 * Ariel Schechter (PM) - aschechter10
-* Carlos Hernandez - 
+* Arib Chowdhury - achowdhury11
+* Carlos Hernandez - chernandez10
+* Jason Chan - ychan10
+
+
 
