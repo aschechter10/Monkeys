@@ -1,2 +1,5 @@
-# Monkeys__aschechter10_achowdhury11_chernandez10_ychan10
+# Team Monkeys
 Repository for p1 - final project 
+
+Roster:
+
