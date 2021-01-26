@@ -5,3 +5,27 @@ When any team member stops working and pushes changes to github, they should upd
 Separate devlog entries with a newline.
 Most recent entry at the bottom.
 Each entry should begin with the following format: firstL -- TIMESTAMP\n ( e.g.: topherM -- 1999-12-31 23:59 )
+
+carlosH -- 2021-01-14 16:37
+Set up apache in droplet
+Set up flaskapp
+Added the domain name
+Added https to our droplet
+Reportedly helped others in this class 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+arielS -- 2021-01-16 22:01
+Set up submodule
+Decided to use GreedyToads because Team EandF project had errors we didn't want to try and fix
+(Carlos) Got angry at Arib for having a project that had some weird coding
+Mostly fixed those coding
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+carlosH -- 2021-01-20 17:29
+Fixed remaining error in coding
+Got started on CSS
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+aribC -- 2021-01-23 19:15
+Finished the rest of CSS
+Debugged the code that was supposed to be fixed
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+jasonC -- 2021--01-26 10:03
+Added this devlog because we forgot to ever push it apparently.....
