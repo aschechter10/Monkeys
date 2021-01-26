@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %} Homepage {% endblock %}
+{% block content %}
+
+<section class="container">
+	<div class="jumbotron" style="text-align:center">
+		<h2>Stories That You've Contributed To</h2>
+		<form action="/renderView" method="POST">
+			{% for title in buttons %}
+			<div class="form-row justify-content-center">
+			<button class="btn btn-primary" style="margin:10px" type="submit" name="story_id" value="{{title}}">{{title}}</button>
+			</div>
+			{% endfor %}
+		</form>
+	</div>
+</section>
+{% endblock %}

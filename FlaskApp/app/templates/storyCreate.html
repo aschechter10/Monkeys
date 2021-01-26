@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %} Homepage {% endblock %}
+{% block content %}
+<section class="container">
+  <div class="jumbotron">
+    <h2>Add a new Story!</h2>
+    {{err}}
+    <form action="/create" method="POST">
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="story_id">Title: </label>
+          <input type="text" name="story_id">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="story_contrib">Story Text: </label>
+        <textarea class="form-control" name="story_contrib" rows="3"></textarea>
+      </div>
+
+      <button type="submit" name="create1" class="btn btn-primary"> Submit </button>
+    </form>
+  </div>
+</section>
+{% endblock %}

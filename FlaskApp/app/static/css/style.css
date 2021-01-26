@@ -1,0 +1,15 @@
+/* #03EEC4 */
+/* #BE48E6 */
+
+body {
+  background-color: #b0c4de !important;
+	color: #C5BDB4;
+}
+
+.jumbotron {
+  background-color: #5F5980 !important;
+}
+
+.btn-marg {
+  margin: 10px;
+}
