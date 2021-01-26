@@ -12,5 +12,6 @@
 * Go to the repository: `cd Monkeys`
 * Install the required modules: `pip install -r requirements.txt`
 * Run: `python app/__init__.py`
+
 OR
 visit soft.seniormars.com
