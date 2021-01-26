@@ -1,4 +1,4 @@
-# Storytelling by Greedy Toads
+# P1 by Monkeys
 
 ## Roster
 * Ariel Schecter: Project Manager
