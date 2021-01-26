@@ -14,4 +14,4 @@
 * Run: `python app/__init__.py`
 
 OR
-visit soft.seniormars.com
+visit [P1 link](https://soft.seniormars.com)
